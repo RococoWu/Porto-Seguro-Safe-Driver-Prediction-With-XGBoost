@@ -1,8 +1,6 @@
 # Porto-Seguro-Safe-Driver-Prediction-With-XGBoost
 
 
-# Porto-Seguro-Safe-Driver-Prediction-With-XGBoost
-
 
 ## 👉Introduction
 
